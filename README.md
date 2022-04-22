@@ -25,7 +25,7 @@ With that said, we prepared a Challenge using an online IDE called [CodeSandbox]
 - If you get issues using `.jsx` extension, switch them over to be `.js`
 
 ### How to send your work
-Take into consideration that not all tasks are directly related. You might resolve what you can on each challenge and send us the result through [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfAxUnF0YiWMMrNVlppuCbKnpAaBGN6mu4nxZAuzFDvrB4mMg/viewform).  Use the form once you have given your best effort for all the challenges.
+Take into consideration that not all tasks are directly related. You might resolve what you can on each challenge and send us the result through [this Google Form](https://forms.gle/HxD7qKFJztb2FPLM7).  Use the form once you have given your best effort for all the challenges.
 
 The evaluation team would decide based on the effort you put at every challenge.
 
